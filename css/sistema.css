@@ -1,0 +1,48 @@
+li {
+    margin-left: 22px;
+    border: 1px solid black;
+    padding: 15px;
+    cursor: pointer;
+    transition-duration: 0.7s;
+    background-color: white;
+    font-size: 20px;
+    list-style:none;
+
+}
+li:hover {
+    background-color: rgb(8, 207, 164);
+    list-style:none;
+}
+button {
+    background-color: white;
+    padding: 5px;
+    transition-duration: 0.7s;
+    cursor: pointer;
+    border-radius: 12px;
+}
+button:hover {
+    background-color: darksalmon;
+}
+table {
+    justify-content: center;
+    margin: auto;
+}
+A:hover { color: black; font-family: arial; text-decoration: none }
+
+A:link {text-decoration: none }
+A:visited {color: black;  font-family: arial; text-decoration: none }
+a {
+    color: black;
+}
+h1 {
+    background-color: silver;
+    justify-content: center;
+    color: black;}
+h2 {
+    justify-content: center;
+    margin: auto;
+}
+body{
+    background-color: silver; 
+    font-family: sans-serif;
+}
